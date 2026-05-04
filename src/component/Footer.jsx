@@ -15,7 +15,7 @@ function Footer() {
 
             < footer className='w-full h-20 flex flex-col items-center justify-around' >
                 <div>
-                    <p className='flex items-center justify-center text-white font-mono gap-4 text-lg' >Made by: Harits &middot; 2026 &middot;  <Github />  <a href="">   github</a></p>
+                    <p className='flex items-center justify-center text-white font-mono gap-4 text-lg' >Made by: Harits &middot; 2026 &middot;  <Github />  <a href="https://github.com/haritswiradama">   github</a></p>
                 </div>
                 <div></div>
             </ footer>
