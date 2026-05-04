@@ -1,16 +1,18 @@
-# React + Vite
+# Random Group Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web app to randomly divide students into groups.
+Built with React + Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
+- Add and remove names
+- Split by number of groups or members per group
+- Custom group prefix
+- Copy results to clipboard
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React
+- Tailwind CSS
+- Framer Motion
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+[Coming Soon]
